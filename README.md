@@ -1,2 +1,2 @@
 # copy
-https://farcaster.xyz/magic-link?token=0xe809193dcb79133be1d011df38719c19b598b56c170a06e2417ace60ac117f6c&address=0x2b95fdfd3cd4949520ddc346b81b55c5b10ce7f9
+blank
